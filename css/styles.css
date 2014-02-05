@@ -1,3 +1,11 @@
 body {
 	background: url("../img/bg.png");
 }
+
+p{
+	font-family: 'Mystery Quest', cursive;
+}
+
+.container{
+	background: teal;
+}
